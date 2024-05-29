@@ -1,0 +1,102 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/obesity---primary.py
+inputModule3:
+  class: File
+  path: python/laparoscopic-ccu000-obesity---primary.py
+inputModule4:
+  class: File
+  path: python/ccu000-obesity-monitoring---primary.py
+inputModule5:
+  class: File
+  path: python/ccu000-obesity-treatment---primary.py
+inputModule6:
+  class: File
+  path: python/ccu000-obesity---primary.py
+inputModule7:
+  class: File
+  path: python/ccu000-obesity-banding---primary.py
+inputModule8:
+  class: File
+  path: python/ccu000-obesity-advised---primary.py
+inputModule9:
+  class: File
+  path: python/ccu000-obesity-jejunocolostomy---primary.py
+inputModule10:
+  class: File
+  path: python/extreme-ccu000-obesity---primary.py
+inputModule11:
+  class: File
+  path: python/ccu000-obesity-removal---primary.py
+inputModule12:
+  class: File
+  path: python/ccu000-obesity-associated---primary.py
+inputModule13:
+  class: File
+  path: python/ccu000-obesity-undernourished---primary.py
+inputModule14:
+  class: File
+  path: python/ccu000-obesity-letter---primary.py
+inputModule15:
+  class: File
+  path: python/ccu000-obesity-assessment---primary.py
+inputModule16:
+  class: File
+  path: python/adjustable-ccu000-obesity---primary.py
+inputModule17:
+  class: File
+  path: python/ccu000-obesity-bypass---primary.py
+inputModule18:
+  class: File
+  path: python/ccu000-obesity-switch---primary.py
+inputModule19:
+  class: File
+  path: python/ccu000-obesity-partitioning---primary.py
+inputModule20:
+  class: File
+  path: python/ccu000-obesity-hyperalimentation---primary.py
+inputModule21:
+  class: File
+  path: python/ccu000-obesity-invite---primary.py
+inputModule22:
+  class: File
+  path: python/gastric-ccu000-obesity---primary.py
+inputModule23:
+  class: File
+  path: python/ccu000-obesity-index---primary.py
+inputModule24:
+  class: File
+  path: python/ccu000-obesity-sleeve---primary.py
+inputModule25:
+  class: File
+  path: python/ccu000-obesity-anastomosis---primary.py
+inputModule26:
+  class: File
+  path: python/ccu000-obesity-history---primary.py
+inputModule27:
+  class: File
+  path: python/ccu000-obesity-education---primary.py
+inputModule28:
+  class: File
+  path: python/ccu000-obesity-weight---primary.py
+inputModule29:
+  class: File
+  path: python/obese-ccu000-obesity---primary.py
+inputModule30:
+  class: File
+  path: python/ccu000-obesity-jejunum---primary.py
+inputModule31:
+  class: File
+  path: python/dietary-ccu000-obesity---primary.py
+inputModule32:
+  class: File
+  path: python/ccu000-obesity-gastrectomy---primary.py
+inputModule33:
+  class: File
+  path: python/ccu000-obesity-alstrom---primary.py
+inputModule34:
+  class: File
+  path: python/output-cases.py
